@@ -1,0 +1,85 @@
+{
+    "countries": [
+        {
+            "country": "Morocco",
+            "cases": "49",
+            "new_cases": "5",
+            "total_deaths": "2",
+            "new_deaths": "",
+            "total_recoverd": "1",
+            "active_cases": "46",
+            "surios_cases": "1"
+        },
+        {
+            "country": "Spain",
+            "cases": "13,716",
+            "new_cases": "1,890",
+            "total_deaths": "616",
+            "new_deaths": "83",
+            "total_recoverd": "1,081",
+            "active_cases": "12,019",
+            "surios_cases": "563"
+        },
+        {
+            "country": "Italy",
+            "cases": "31,506",
+            "new_cases": "",
+            "total_deaths": "2,503",
+            "new_deaths": "",
+            "total_recoverd": "2,941",
+            "active_cases": "26,062",
+            "surios_cases": "2,060"
+        },
+        {
+            "country": "France",
+            "cases": "7,730",
+            "new_cases": "",
+            "total_deaths": "175",
+            "new_deaths": "",
+            "total_recoverd": "602",
+            "active_cases": "6,953",
+            "surios_cases": "699"           
+        },
+        {
+            "country": "Germany",
+            "cases": "10,082",
+            "new_cases": "715",
+            "total_deaths": "26",
+            "new_deaths": "",
+            "total_recoverd": "71",
+            "active_cases": "9,985",
+            "surios_cases": "2"
+        },
+        {
+            "country": "China",
+            "cases": "80,894",
+            "new_cases": "13",
+            "total_deaths": "3,237",
+            "new_deaths": "11",
+            "total_recoverd": "69,614",
+            "active_cases": "8,043",
+            "surios_cases": "2,622" 
+        },
+        {
+            "country": "USA",
+            "cases": "6,534",
+            "new_cases": "123",
+            "total_deaths": "116",
+            "new_deaths": "7",
+            "total_recoverd": "106",
+            "active_cases": "6,312",
+            "surios_cases": "12"
+        },
+        {
+            "country": "Iran",
+            "cases": "17,361",
+            "new_cases": "1,192",
+            "total_deaths": "1,135",
+            "new_deaths": "147",
+            "total_recoverd": "5,389",
+            "active_cases": "10,837",
+            "surios_cases": ""    
+        }
+    ]
+
+}
